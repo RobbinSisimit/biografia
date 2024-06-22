@@ -1,0 +1,62 @@
+.titulo{
+    font-size: 36px;
+    text-align: center;
+}
+.formaCircula{
+    display: flex;
+    width: 150px; 
+    height: auto; 
+    margin-right: 20px; 
+}
+.info{ 
+    display: flex;
+    align-items: flex-start;
+    
+}
+.text{
+    flex: 1;
+    text-align: justify;
+}
+.tableInfo{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-collapse: collapse; /* Fusiona los bordes de las celdas */
+    margin-top: 1px;
+}
+.titulotable{
+    padding: right 50px;
+}
+.listas{
+    display: inline-block;
+    vertical-align: top; /* Alinea verticalmente al principio */
+    margin-right: 20px;  /* Espacio entre las listas */
+}
+.hobbie{
+    display: flex;
+    align-items: flex-start;
+    text-align:end;
+    text-align: justify;
+}
+.ulnav{
+    display: flex;
+    list-style-type: none;
+}
+.linav{
+    padding: right 30px;
+}
+ 
+.anav{
+    color :white;
+    text-decoration: none;
+    padding-right: 15px;
+ 
+}
+ 
+nav{
+    background-color: black;
+    padding: 25px;
+}
+body{
+    margin: 0px;
+}

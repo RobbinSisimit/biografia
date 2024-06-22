@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+ 
+caption, thead{
+    color:brown;
+}
+ 
+ 
+.ulnav{
+    display: flex;
+    list-style-type: none;
+}
+ 
+.linav{
+    padding: right 30px;
+}
+ 
+.anav{
+    color :white;
+    text-decoration: none;
+    padding-right: 15px;
+ 
+}
+ 
+nav{
+    background-color: black;
+    padding: 25px;
+}
+table{
+    margin: 40px;
+}
+
+footer{
+    font-size: 10px;
+    text-align: center;
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+}
