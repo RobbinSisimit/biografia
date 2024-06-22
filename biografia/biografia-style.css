@@ -1,6 +1,7 @@
 .titulo{
     font-size: 36px;
     text-align: center;
+    font-family: 'Arial', sans-serif
 }
 .formaCircula{
     display: flex;
@@ -23,6 +24,7 @@
     width: 100%;
     border-collapse: collapse; /* Fusiona los bordes de las celdas */
     margin-top: 1px;
+    font-family: 'Arial', sans-serif
 }
 .titulotable{
     padding: right 50px;
